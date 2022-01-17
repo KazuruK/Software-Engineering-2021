@@ -83,3 +83,7 @@ docker-compose up -d
 
 ###### Над проектом работал:
 - **Есин Никита** - https://vk.com/kazuru
+
+# Тестирование:
+
+[![test](https://github.com/KazuruK/Software-Engineering-2021/actions/workflows/test.yml/badge.svg)](https://github.com/KazuruK/Software-Engineering-2021/actions/workflows/test.yml)
