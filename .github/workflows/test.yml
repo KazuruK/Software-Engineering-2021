@@ -4,13 +4,16 @@ on:
   push:
     branches:
       - master
+      - develop
 
   pull_request:
     branches:
       - master
+      - develop
   workflow_dispatch:
     branches:
       - master
+      - develop
 
 jobs:
   build:
