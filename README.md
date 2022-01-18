@@ -86,4 +86,6 @@ docker-compose up -d
 
 # Тестирование:
 
-[![test](https://github.com/KazuruK/Software-Engineering-2021/actions/workflows/test.yml/badge.svg)](https://github.com/KazuruK/Software-Engineering-2021/actions/workflows/test.yml)
+Main branch - [![test](https://github.com/KazuruK/Software-Engineering-2021/actions/workflows/test.yml/badge.svg)](https://github.com/KazuruK/Software-Engineering-2021/actions/workflows/test.yml)
+
+Develop branch - [![test](https://github.com/KazuruK/Software-Engineering-2021/actions/workflows/test.yml/badge.svg?branch=develop)](https://github.com/KazuruK/Software-Engineering-2021/actions/workflows/test.yml)
